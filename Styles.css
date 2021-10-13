@@ -1,0 +1,38 @@
+table {
+	
+	border-collapse: collapse;
+}
+
+caption {
+	font-weight: bold;
+	font-style: italic;
+	text-transform: uppercase;
+}
+td {
+	
+	border: 1px solid black;
+	text-align: center;
+}
+
+th {
+	
+	border: 2px solid black;
+	
+}
+
+
+.Ingredients {
+	
+	color:rgb(0,0,255);
+}
+
+.Etapes {
+	
+	color:rgb(255,0,0);
+	
+}
+
+.Temps {
+	
+	color: rgb(0,185,0);
+}
